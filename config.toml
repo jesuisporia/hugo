@@ -1,4 +1,4 @@
-baseURL = 'https://jesuisporia.github.io/howoften/'
+baseURL = 'https://jesuisporia.github.io/hugo/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "yinyang" 
