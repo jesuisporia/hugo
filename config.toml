@@ -1,0 +1,6 @@
+baseURL = 'https://jesuisporia.github.io/howoften/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "yinyang" 
+
+publishDir = "docs"
